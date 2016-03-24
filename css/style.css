@@ -6,6 +6,10 @@ body {
     background: #f0f0f0 url('../img/bg-symbols.png');
 }
 
+a {
+    text-decoration: underline;
+}
+
 .wrapper {
     position: absolute;
     top: 27%;
@@ -40,4 +44,8 @@ body {
     .logo h1 {
         font-size: 20px;
     }
+}
+
+.team-page {
+    text-align: center;
 }
